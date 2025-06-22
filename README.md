@@ -24,4 +24,4 @@ Basic configuration of hosts files and DNS lookups
 
 Networking is a core pillar of DevOps. Whether it's deploying applications, automating infrastructure, or monitoring system health—understanding how data flows is crucial. This module made that very clear.
 
-Big thanks to @CoderCo for the structured, hands-on approach to learning!
+Big thanks to CoderCo for the structured, hands-on approach to learning!
